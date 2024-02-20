@@ -1,8 +1,8 @@
 import { Base58 } from "@koinos/sdk-as";
 
 export namespace Constants {
-  export const NAME: string = "Trans.Ex Collection";
-  export const SYMBOL: string = "TRX";
+  export const NAME: string = "Trans.Ex";
+  export const SYMBOL: string = "TRSX";
   export const MINT_PRICE: u64 = 8900000000;
   export const MINT_FEE: bool = true;
   export const MAX_SUPPLY: u64 = 111;
