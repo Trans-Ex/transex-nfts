@@ -3,7 +3,7 @@ import { Base58 } from "@koinos/sdk-as";
 export namespace Constants {
   export const NAME: string = "Trans.Ex";
   export const SYMBOL: string = "TRSX";
-  export const MINT_PRICE: u64 = 8900000000;
+  export const MINT_PRICE: u64 = 8588500000;
   export const MINT_FEE: bool = true;
   export const MAX_SUPPLY: u64 = 111;
   export const URI: string = "https://salmon-negative-koi-521.mypinata.cloud/ipfs/QmbnEz26G1Bstha3LiBfxC8cu6UH7XEGQVsXz85zAJFwCC";
